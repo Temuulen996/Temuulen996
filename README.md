@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Temuulen</h1>
+<h1 align="center">Helloooo...👋, I am Temuulen.</h1>
 <h3 align="center">Back-End developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temuulen996&label=Profile%20views&color=0e75b6&style=flat" alt="temuulen996" /> </p>
